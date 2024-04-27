@@ -6,17 +6,17 @@
 
 #### Objetivos
 
-1. Criar uma reporsitorio local e adicionalo ao nosso Github-remoto; []
+1. Criar uma reporsitorio local e adicionalo ao nosso Github-remoto; [x]
 
-2. Clonar um repositorio remoto para o nosso computador local; []
+2. Clonar um repositorio remoto para o nosso computador local; [x]
 
-3. Fazer alteraçoes >> Adicionar | commitar | enviar arquivos; []
+3. Fazer alteraçoes >> Adicionar | commitar | enviar arquivos; [x]
 
-4. Criar uma nova Branch; []
+4. Criar uma nova Branch; [x]
 
-5. Realizar um Pull Request e Merge; []
+5. Realizar um Pull Request e Merge; [x]
 
-6. Criar um Fork; []
+6. Criar um Fork; [x]
 
 
 
