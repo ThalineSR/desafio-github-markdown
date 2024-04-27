@@ -1,10 +1,14 @@
-# Desafio-github-markdown
---- 
-## Explorando Colaboração e Markdown 
 
+# Desafio-github-markdown
+**Explorando Colaboração e Markdown** 
+
+---
+
+<p align="center"> 
 <img src="https://pa1.aminoapps.com/6612/63a2754a201e4da53c9d1ec87db092fe3c5c2dee_hq.gif" >
 
-#### Objetivos
+
+> Objetivos 
 
 1. Criar uma reporsitorio local e adicionalo ao nosso Github-remoto; [x]
 
@@ -17,6 +21,7 @@
 5. Realizar um Pull Request e Merge; [x]
 
 6. Criar um Fork; [x]
+
 
 
 
